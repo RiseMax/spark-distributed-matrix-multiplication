@@ -108,9 +108,9 @@
 
 > python路径 /opt/miniconda3/envs/py310/lib/python3.10
 
-![](image/p1.png)
+![](image/p_1.png)
 
-![](image/p2.png)
+![](image/p_2.png)
 
 4、安装Hadoop 3.3.6，修改一系列配置文件
 
